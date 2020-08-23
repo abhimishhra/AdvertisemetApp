@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AdvertisementApp"
+    }
+  },
+  "defaultProject": "AdvertisementApp",
+  "cli": {
+    "analytics": "caa1ca82-1354-4518-9c12-e50269bef2fe"
+  }
 }
